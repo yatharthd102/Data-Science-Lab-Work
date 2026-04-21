@@ -26,4 +26,4 @@ Gender and passenger class are the strongest predictors of survival.
 Family size also plays a role, with solo travelers having different
 survival patterns than families.
 ## Author
-Manus
+Yatharth D Chauhan

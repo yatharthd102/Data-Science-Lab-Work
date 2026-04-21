@@ -26,4 +26,4 @@ The dashboard clearly shows normal score distribution with most students
 performing in the C-B range. Subject-wise analysis helps identify where
 students need more attention.
 ## Author
-Manus
+Yatharth D Chauhan
